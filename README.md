@@ -1,4 +1,4 @@
-# 📦 "Parallel test vs sequential test"
+# 📦 "Parallel vs sequential test"
 
 ## 📌 Overview
 Ini adalah framework otomasi Selenium WebDriver yang komprehensif untuk menguji fungsi e-commerce, khususnya untuk aplikasi SauceDemo.
